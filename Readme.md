@@ -48,6 +48,7 @@
   - https://www.varnish-cache.org/trac/wiki/VCLExamples (mostly outdated)
   - https://github.com/metabrainz/3scale-vcl.git
   - https://github.com/mattiasgeniar/varnish-3.0-configuration-templates.git
+  - https://github.com/mattiasgeniar/varnish-4.0-configuration-templates.git
   - [Introduction to Varnish VCL](http://www.slideshare.net/paxdickinson/introduction-to-varnish-vcl)
 
 ## HowTo Modules
