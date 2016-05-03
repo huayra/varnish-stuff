@@ -89,6 +89,7 @@
   - [Varnish Bans Manager (VBM) is a simple server and web UI designed to ease management of bans in complex Varnish deployments](https://github.com/dot2code/varnish-bans-manager)
   - [Varnish Security Firewall](https://github.com/comotion/VSF.git)
   - [Re-format tool for vsl(varnishlog)](https://github.com/xcir/vsltrans.git)
+  - [Learn Varnish + Django simple docs](https://github.com/nychng/learn-varnish)
 
 
 
