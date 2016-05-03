@@ -43,6 +43,9 @@
 
 
 ## Examples for VCL
+  - https://github.com/espebra/varnish-vcl-snippets
+  - https://github.com/fgsch/vcl-snippets
+  - https://www.varnish-cache.org/trac/wiki/VCLExamples (mostly outdated)
   - https://github.com/metabrainz/3scale-vcl.git
   - https://github.com/mattiasgeniar/varnish-3.0-configuration-templates.git
   - [Introduction to Varnish VCL](http://www.slideshare.net/paxdickinson/introduction-to-varnish-vcl)
@@ -89,6 +92,8 @@
 
 
 ## User Groups
+  - https://www.varnish-cache.org/vug10/
+  - https://www.varnish-cache.org/vug9/
   - https://www.varnish-cache.org/vug8/
   - https://www.varnish-cache.org/vug7/
   - https://www.varnish-cache.org/vug6/
